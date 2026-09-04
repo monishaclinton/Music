@@ -50,7 +50,7 @@ class BottomNav {
         // PROFILE
         val profile = createNavItem(
             activity,
-            R.drawable.profile,
+            R.drawable.profile_icon_bt,
             "Profile"
         )
 

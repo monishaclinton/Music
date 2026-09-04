@@ -45,7 +45,7 @@ public class Favourites extends AppCompatActivity {
                 findViewById(
                         R.id.recyclerfavouriteView
                 );
-        favouriteText=findViewById(R.id.fav_txt);
+        favouriteText=findViewById(R.id.txt_fav);
         Animation animation = AnimationUtils.loadAnimation(
                 this,
                 R.anim.text_slide

@@ -311,7 +311,7 @@ public class Profile extends AppCompatActivity {
 
 
         // =====================================================
-        // PASSWORD EDIT ICON
+         // PASSWORD EDIT ICON
         // =====================================================
 
         if (editPasswordButton != null) {
